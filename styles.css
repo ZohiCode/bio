@@ -10,7 +10,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: linear-gradient(135deg, #3172f4, #001f86b9);
+    background: linear-gradient(135deg, #6995ed, #0026a5c4);
     margin: 0;
 }
 
@@ -61,7 +61,7 @@ p {
 }
 
 .link {
-    background: #3255d3;
+    background: #467dea;
     width: 40%;
     margin: 0 auto;
     color: white;
