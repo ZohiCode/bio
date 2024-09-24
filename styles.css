@@ -3,19 +3,20 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
-  }
-  
-  body {
+}
+
+body {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
     background: linear-gradient(135deg, #3172f4, #001f86b9);
     margin: 0;
-  }
+}
+
 .container {
     position: absolute;
-    max-width: 400px;
+    max-width: 360px;
     margin: 50px auto;
     padding: 20px;
     background: #ffffff;
